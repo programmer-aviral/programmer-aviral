@@ -5,33 +5,38 @@ on:
     - cron: "0 1 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     name: Generate 3D Contribution Graph
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: programmer-aviral
 
+      - name: Check generated files
+        run: |
+          echo "=== Generated files ==="
+          find profile-3d-contrib -maxdepth 1 -type f -print
+
       - name: Commit generated files
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
 
           git add -A
 
           if git diff --cached --quiet; then
-            echo "No changes to commit."
+            echo "No generated changes found."
           else
             git commit -m "chore: update 3D contribution graph"
             git push
