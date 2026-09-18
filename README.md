@@ -1,27 +1,27 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                    AVIRAL GANDHI — GITHUB PROFILE README                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  AVIRAL GANDHI — GITHUB PROFILE README v2            -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED HERO BANNER -->
+<!-- ░░░ HERO BANNER ░░░ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a192f,100:00d4ff&height=200&section=header&text=AVIRAL%20GANDHI&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast%20%7C%20Builder&descAlignY=60&descSize=16&descColor=8892b0&animation=twinkling" alt="Aviral Gandhi — Full Stack Developer & AI/ML Enthusiast" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=AVIRAL%20GANDHI&fontSize=48&fontColor=00d4ff&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%26%20ML%20Enthusiast%20%E2%80%A2%20Hackathon%20Builder&descAlignY=60&descSize=15&descColor=8892b0" alt="Aviral Gandhi" width="100%"/>
 
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- ░░░ TYPING ANIMATION ░░░ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=55&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Modern+Web+Experiences+%F0%9F%8C%90;Full+Stack+Developer+%7C+AI+%26+ML+Enthusiast;BCA+Student+%7C+Hackathon+Builder+%E2%9A%A1;Ideas+that+Solve+Real+Problems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&repeat=true&width=680&height=48&lines=Building+intelligent+systems+%F0%9F%A4%96;Modern+full-stack+web+experiences+%F0%9F%8C%90;AI+%2F+ML+powered+real-world+products+%E2%9A%A1;BCA+Student+%7C+Hackathon+Builder+%F0%9F%9A%80;Turning+ideas+into+working+software+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
 
-<!-- SOCIAL LINKS -->
+<!-- ░░░ SOCIAL BADGES ░░░ -->
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-programmer--aviral-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a192f)](https://github.com/programmer-aviral)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aviral_Gandhi-0a192f?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117)](https://www.linkedin.com/in/aviral-gandhi-4756162a3/)
-[![Instagram](https://img.shields.io/badge/Instagram-aviralgandhi__-0d1117?style=for-the-badge&logo=instagram&logoColor=00d4ff&labelColor=0a192f)](https://www.instagram.com/aviralgandhi_/)
+[![GitHub](https://img.shields.io/badge/GitHub-programmer--aviral-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a192f)](https://github.com/programmer-aviral)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aviral%20Gandhi-0a192f?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0d1117)](https://www.linkedin.com/in/aviral-gandhi-4756162a3/)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-aviralgandhi__-0d1117?style=for-the-badge&logo=instagram&logoColor=00d4ff&labelColor=0a192f)](https://www.instagram.com/aviralgandhi_/)&nbsp;
 [![Email](https://img.shields.io/badge/Email-programmeraviral%40gmail.com-0a192f?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0d1117)](mailto:programmeraviral@gmail.com)
 
 </div>
@@ -30,47 +30,45 @@
 
 ---
 
-<!-- ═══════════════════ TERMINAL INTRO ═══════════════════ -->
+<!-- ░░░ TERMINAL INTRO ░░░ -->
 
 ```bash
 ┌──(aviral㉿programmer)─[~]
 └─$ whoami
-aviral-gandhi
-
-┌──(aviral㉿programmer)─[~]
-└─$ cat role.txt
-Full Stack Developer | AI/ML Enthusiast | BCA Student
+  aviral-gandhi  |  Full Stack Developer  |  AI/ML Enthusiast  |  BCA Student
 
 ┌──(aviral㉿programmer)─[~]
 └─$ cat mission.txt
-"Building intelligent systems, modern web experiences & ideas that solve real problems."
+  "Building intelligent systems, modern web experiences
+   & ideas that solve real problems."
 
 ┌──(aviral㉿programmer)─[~]
-└─$ ls current/
-📦 AI-powered Apps    🌐 Full Stack Projects    ⚡ Hackathon Builds
+└─$ ls ./currently/
+  🤖 AI-Powered Apps    🌐 Full-Stack Systems    ⚡ Hackathon Builds
 
 ┌──(aviral㉿programmer)─[~]
 └─$ echo $STATUS
-Open to internships, collabs, and building cool things ✓
+  ✅  Open to internships · hackathons · collabs · open-source
 ```
 
 ---
 
-<!-- ═══════════════════ ABOUT ME ═══════════════════ -->
+<!-- ░░░ ABOUT ME ░░░ -->
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="300" alt="Coding GIF"/>
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280" alt="Coding"/>
 
-I'm **Aviral Gandhi** — a BCA student, full-stack developer, and AI/ML enthusiast who loves turning ideas into working products.
+**BCA student. Full-stack developer. AI/ML enthusiast. Builder.**
 
-- 🎓 **BCA Student** — pursuing Computer Applications with a focus on applied development
-- 🔧 **Full Stack Developer** — building end-to-end systems from UI to infrastructure
-- 🤖 **AI/ML Enthusiast** — integrating intelligent systems into real-world products
-- ⚡ **Hackathon Builder** — ship-fast, learn-fast mindset
-- 🌱 **Continuous Learner** — always exploring the next thing worth knowing
-- 🤝 **Open Source Learner** — contributing, reading, improving
-- 🎯 **Goal** — build products that genuinely solve real problems
+I turn ideas into working software — from a clean React UI to a production FastAPI backend, wired up with intelligence wherever it matters. I'm drawn to hard problems, hackathon pressure, and building things that actually get used.
+
+- 🎓 **BCA Student** — Computer Applications, focused on applied engineering
+- 🔧 **Full Stack Developer** — end-to-end product thinking, UI to infrastructure
+- 🤖 **AI/ML Enthusiast** — integrating models, APIs, and LLMs into real products
+- ⚡ **Hackathon Builder** — ship-fast, learn-fast, iterate relentlessly
+- 🌱 **Continuous Learner** — always on the next interesting thing
+- 🤝 **Open Source** — learning by reading, contributing, improving
 
 > *I don't just write code — I architect solutions.*
 
@@ -78,52 +76,23 @@ I'm **Aviral Gandhi** — a BCA student, full-stack developer, and AI/ML enthusi
 
 ---
 
-<!-- ═══════════════════ CURRENTLY BUILDING ═══════════════════ -->
+<!-- ░░░ CURRENTLY BUILDING ░░░ -->
 
 ## 🔭 Currently Building
 
 <div align="center">
 
-| 🤖 AI Applications | 🌐 Full Stack Systems | ⚡ Developer Tools |
-|:---:|:---:|:---:|
-| Generative AI integrations | React + Node.js products | CLI & automation tools |
-| LLM-powered workflows | REST & GraphQL APIs | Backend microservices |
-| Voice & conversational AI | Database architecture | Cloud-deployed systems |
-
-| 🏗️ Hackathon Projects | ☁️ Cloud Infrastructure | 📊 ML Pipelines |
-|:---:|:---:|:---:|
-| Rapid prototyping | AWS & Firebase deployments | Training & inference APIs |
-| End-to-end MVPs | Cloudflare edge functions | Model evaluation & MLOps |
-| Team collaborations | Serverless architectures | Data processing pipelines |
+| 🤖 AI Applications | 🌐 Full-Stack Systems | ⚡ Hackathon Projects |
+|:---|:---|:---|
+| LLM-powered product features | React + Node.js end-to-end apps | Rapid MVPs under 48-hour deadlines |
+| Voice & conversational AI | REST APIs + database architecture | Team collaboration, idea-to-demo |
+| Generative AI integrations | Cloud-deployed backend services | Problem-first, user-centric builds |
 
 </div>
 
 ---
 
-<!-- ═══════════════════ CURRENTLY LEARNING ═══════════════════ -->
-
-## 🌱 Currently Learning
-
-```
-📚 LEARNING STACK — 2025
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  🐍  Python Advanced          ████████████░░░░  75%
-  🧠  Machine Learning         ███████████░░░░░  68%
-  🔥  Deep Learning            ████████░░░░░░░░  50%
-  ⚡  FastAPI                  ██████████████░░  87%
-  🏗️  System Design            ████████░░░░░░░░  52%
-  ☁️  Cloud (AWS/Firebase)     ██████████░░░░░░  65%
-  🤖  AI APIs & LLMs           ████████████░░░░  78%
-  🧩  DSA & Algorithms         ████████████░░░░  74%
-  🔧  Advanced Backend Dev     ███████████░░░░░  70%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<!-- ░░░ TECH STACK ░░░ -->
 
 ## 🛠️ Tech Stack
 
@@ -142,14 +111,14 @@ I'm **Aviral Gandhi** — a BCA student, full-stack developer, and AI/ML enthusi
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
 ![Angular](https://img.shields.io/badge/Angular-0d1117?style=for-the-badge&logo=angular&logoColor=DD0031)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 **Backend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![NestJS](https://img.shields.io/badge/NestJS-0d1117?style=for-the-badge&logo=nestjs&logoColor=E0234E)
 
@@ -164,105 +133,60 @@ I'm **Aviral Gandhi** — a BCA student, full-stack developer, and AI/ML enthusi
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
 ![MLflow](https://img.shields.io/badge/MLflow-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
 
-**Cloud & DevOps**
+**Cloud & Deployment**
 
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d1117?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
 
-**Design & Tools**
+**Tools & Design**
 
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![Blender](https://img.shields.io/badge/Blender-0d1117?style=for-the-badge&logo=blender&logoColor=E87D0D)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ PROJECT SPOTLIGHT ═══════════════════ -->
-
-## 🚀 Project Spotlight
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    ✦  LIFEOS  ✦                             ║
-║         AI-Powered Life Management Platform                  ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  PROBLEM: People manage tasks, goals, habits, finances       ║
-║  and notes across dozens of disconnected tools.              ║
-║                                                              ║
-║  SOLUTION: A single AI-powered platform that unifies         ║
-║  your entire life — tasks, goals, habits, finances,          ║
-║  journaling, and insights in one intelligent workspace.      ║
-║                                                              ║
-║  STACK: React · TypeScript · Node.js · PostgreSQL            ║
-║         Prisma · OpenAI API · FastAPI                        ║
-║                                                              ║
-║  STATUS: 🔨 In Active Development                           ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-[![View LifeOS](https://img.shields.io/badge/View_Repo-LifeOS-0d1117?style=for-the-badge&logo=github&logoColor=00d4ff)](https://github.com/programmer-aviral)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Coming_Soon-0a192f?style=for-the-badge&logo=vercel&logoColor=00d4ff)](https://github.com/programmer-aviral)
-
-</div>
-
----
-
-<!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
+<!-- ░░░ FEATURED PROJECTS ░░░ -->
 
 ## 📦 Featured Projects
 
-<div align="center">
+<details open>
+<summary><b>🧠 LifeOS — AI-Powered Life Management Platform</b></summary>
+<br>
 
-| Project | Description | Stack | Status |
-|:---|:---|:---|:---:|
-| 🧠 **[LifeOS](https://github.com/programmer-aviral)** | AI-powered unified productivity & life-management platform | React · Node.js · PostgreSQL · AI | 🔨 Building |
-| 🎙️ **[GURU AI](https://github.com/programmer-aviral)** | Voice-first AI assistant for hands-free intelligent interaction | Python · FastAPI · Speech APIs · LLMs | 🔬 Prototype |
-| 💬 **[NO-TEXT](https://github.com/programmer-aviral)** | Communication platform reimagined beyond traditional text | React · WebSockets · Node.js | 💡 Concept |
-| ⚖️ **[NiyamDrishti AI](https://github.com/programmer-aviral)** | AI-driven labour compliance intelligence system | Python · ML · FastAPI · PostgreSQL | 🔨 Building |
-| 🏥 **[HealthOS](https://github.com/programmer-aviral)** | Edge AI healthcare platform for real-time clinical intelligence | Python · TensorFlow · FastAPI · Edge | 🔬 Research |
+**Problem:** People manage tasks, goals, habits, finances and notes across a dozen disconnected tools.
 
-</div>
+**Solution:** A unified, AI-powered workspace that brings everything into one intelligent platform — tasks, goals, habits, journaling, and insights.
 
-### Project Details
+**Stack:** `React` `TypeScript` `Node.js` `PostgreSQL` `Prisma` `FastAPI` `OpenAI API`
+
+**Status:** 🔨 Active Development
+
+</details>
 
 <details>
 <summary><b>🎙️ GURU AI — Voice-First AI Assistant</b></summary>
 <br>
 
-**Problem:** Most AI assistants require typing, breaking flow for hands-free workflows.
+**Problem:** Most AI tools require typing, which breaks focus for hands-free workflows.
 
-**Solution:** A voice-first AI assistant that accepts speech input, reasons with an LLM, and responds naturally — no typing required.
+**Solution:** A voice-first assistant that accepts speech input, reasons with an LLM, and responds naturally — no typing required.
 
-**Stack:** Python · FastAPI · Speech Recognition · OpenAI / Gemini API · TTS
+**Stack:** `Python` `FastAPI` `Speech Recognition` `LLM API` `TTS`
 
 **Status:** 🔬 Prototype Phase
-
-</details>
-
-<details>
-<summary><b>💬 NO-TEXT — Beyond Text Communication</b></summary>
-<br>
-
-**Problem:** Text messaging is limiting — it lacks context, tone, and expression.
-
-**Solution:** A communication concept exploring interaction without traditional text — through gestures, visuals, sounds, and AI-mediated expression.
-
-**Stack:** React · WebSockets · Node.js · Creative UI
-
-**Status:** 💡 Concept & Exploration
 
 </details>
 
@@ -270,25 +194,39 @@ I'm **Aviral Gandhi** — a BCA student, full-stack developer, and AI/ML enthusi
 <summary><b>⚖️ NiyamDrishti AI — Labour Compliance Intelligence</b></summary>
 <br>
 
-**Problem:** Labour compliance in India is complex, fragmented, and manually managed.
+**Problem:** Labour compliance in India is complex, fragmented, and handled manually.
 
-**Solution:** An AI-driven platform that reads, interprets, and monitors labour law compliance intelligently — reducing risk and manual overhead.
+**Solution:** An AI-driven platform that reads, interprets, and monitors labour law compliance — reducing legal risk and manual overhead.
 
-**Stack:** Python · ML · NLP · FastAPI · PostgreSQL
+**Stack:** `Python` `NLP` `ML` `FastAPI` `PostgreSQL`
 
 **Status:** 🔨 In Development
 
 </details>
 
 <details>
-<summary><b>🏥 HealthOS — Edge AI Healthcare</b></summary>
+<summary><b>💬 NO-TEXT — Communication Beyond Text</b></summary>
 <br>
 
-**Problem:** Healthcare intelligence is cloud-dependent and slow in critical environments.
+**Problem:** Text messaging is limiting — it lacks tone, context, and human expression.
 
-**Solution:** An edge AI platform that runs diagnostic models locally for real-time, low-latency healthcare intelligence.
+**Solution:** A communication concept exploring interaction without traditional text — through visuals, gestures, and AI-mediated expression.
 
-**Stack:** Python · TensorFlow Lite · FastAPI · Edge Computing
+**Stack:** `React` `WebSockets` `Node.js`
+
+**Status:** 💡 Concept & Exploration
+
+</details>
+
+<details>
+<summary><b>🏥 HealthOS — Edge AI Healthcare Platform</b></summary>
+<br>
+
+**Problem:** Healthcare AI is cloud-dependent and slow in critical, low-connectivity environments.
+
+**Solution:** An edge AI platform running diagnostic models locally for real-time, low-latency clinical intelligence.
+
+**Stack:** `Python` `TensorFlow Lite` `FastAPI` `Edge Computing`
 
 **Status:** 🔬 Research Phase
 
@@ -296,338 +234,246 @@ I'm **Aviral Gandhi** — a BCA student, full-stack developer, and AI/ML enthusi
 
 ---
 
-<!-- ═══════════════════ AI/ML SECTION ═══════════════════ -->
+<!-- ░░░ AI / ML SECTION ░░░ -->
 
 ## 🤖 AI & Machine Learning
 
 ```
 AI DEVELOPMENT PIPELINE
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────────────────────────────────────────
 
-  📊 DATA        →    🧠 MODEL       →    ⚡ API         →    🚀 PRODUCT
-  ─────────────────────────────────────────────────────────────────────
-  Collection          Training            FastAPI              React UI
-  Cleaning            Fine-tuning         REST/WebSocket       Mobile App
-  Processing          Evaluation          LLM Integration      Real Users
-  Analysis            Deployment          Streaming            Feedback Loop
+  📊 DATA        →    🧠 MODEL        →    ⚡ API          →    🚀 PRODUCT
+  ────────────────────────────────────────────────────────────────────────
+  Collection          Training             FastAPI              React UI
+  Cleaning            Fine-tuning          REST / WebSocket     Mobile App
+  Processing          Evaluation           LLM Integration      Real Users
+  Analysis            Deployment           Streaming            Iteration
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+──────────────────────────────────────────────────────────────────
 ```
 
-**Focus Areas:**
-- 🔤 **NLP & LLMs** — Prompt engineering, fine-tuning, RAG systems
+**What I work with:**
+
+- 🔤 **NLP & LLMs** — Prompt engineering, RAG systems, LLM API integrations
 - 🎙️ **Voice AI** — Speech recognition, TTS, conversational interfaces
-- 🔍 **Computer Vision** — Image classification, object detection (exploring)
-- 🏗️ **MLOps** — Model versioning, serving, monitoring with MLflow
-- 🤖 **AI Product Engineering** — Building AI-first applications end-to-end
+- 🏗️ **MLOps** — Model versioning, serving, and monitoring with MLflow
+- 🤖 **AI Product Engineering** — Building AI-first products end-to-end, not just scripts
 
 ---
 
-<!-- ═══════════════════ FULL STACK ARCHITECTURE ═══════════════════ -->
+<!-- ░░░ HOW I BUILD ░░░ -->
 
-## 🏗️ Full Stack Architecture
+## 🏗️ How I Build
 
 ```
-  ┌─────────────────────────────────────────────┐
-  │           🌐  FRONTEND LAYER                │
-  │     React · Next.js · TypeScript · CSS      │
-  └──────────────────┬──────────────────────────┘
-                     │  HTTPS / WebSocket
-  ┌──────────────────▼──────────────────────────┐
-  │              ⚡  API LAYER                   │
-  │       REST · GraphQL · WebSocket            │
-  └──────────────────┬──────────────────────────┘
-                     │
-  ┌──────────────────▼──────────────────────────┐
-  │            🔧  BACKEND LAYER                │
-  │     Node.js · Express · NestJS · FastAPI    │
-  └──────────┬───────────────────┬──────────────┘
-             │                   │
-  ┌──────────▼──────┐   ┌───────▼──────────────┐
-  │  🗄️  DATABASE   │   │    🤖  AI / ML LAYER  │
-  │  PostgreSQL     │   │  TensorFlow · PyTorch │
-  │  MongoDB        │   │  OpenAI · LLMs        │
-  │  Redis          │   │  FastAPI ML Server    │
-  └──────────┬──────┘   └───────┬──────────────┘
-             └─────────┬─────────┘
-  ┌───────────────────▼─────────────────────────┐
-  │             ☁️  CLOUD LAYER                  │
-  │      AWS · Firebase · Cloudflare · Docker   │
-  └─────────────────────────────────────────────┘
+  ┌──────────────────────────────────────────────────────┐
+  │  💡  IDEA  →  Define the problem clearly             │
+  └────────────────────┬─────────────────────────────────┘
+                       │
+  ┌────────────────────▼─────────────────────────────────┐
+  │  🎨  UI / FRONTEND  —  React · Next.js · Tailwind    │
+  └────────────────────┬─────────────────────────────────┘
+                       │
+  ┌────────────────────▼─────────────────────────────────┐
+  │  ⚡  API LAYER  —  REST · GraphQL · WebSocket        │
+  └──────────────┬────────────────────┬──────────────────┘
+                 │                    │
+  ┌──────────────▼───────┐  ┌────────▼─────────────────┐
+  │  🗄️  DATABASE         │  │  🤖  AI / ML ENGINE      │
+  │  PostgreSQL · Mongo   │  │  FastAPI · LLMs · Models │
+  └──────────────┬────────┘  └────────┬─────────────────┘
+                 └──────────┬──────────┘
+  ┌─────────────────────────▼────────────────────────────┐
+  │  ☁️  CLOUD  —  AWS · Firebase · Cloudflare · Docker  │
+  └──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-<!-- ═══════════════════ HACKATHON MODE ═══════════════════ -->
+<!-- ░░░ HACKATHON MODE ░░░ -->
 
 ## ⚡ Hackathon Mode
 
 ```
- ╔═══════════════════════════════════════════════════════════╗
- ║                  ⚡  HACKATHON MODE  ⚡                    ║
- ╠═══════════════════════════════════════════════════════════╣
- ║                                                           ║
- ║   🧠 IDEATE  →  💻 BUILD  →  🤖 AI  →  🧪 TEST  →  🚀    ║
- ║                                                           ║
- ║   48 hours. One idea. Ship it.                           ║
- ║   No perfect code. Only working code.                    ║
- ║                                                           ║
- ╚═══════════════════════════════════════════════════════════╝
+  ╔═══════════════════════════════════════════════════════╗
+  ║               ⚡  HACKATHON MODE  ⚡                   ║
+  ╠═══════════════════════════════════════════════════════╣
+  ║                                                       ║
+  ║   💡 IDEA  →  🛠️ BUILD  →  🤖 AI  →  🧪 TEST  →  🚀  ║
+  ║                                                       ║
+  ║   48 hours.  One problem.  One working product.      ║
+  ║   No perfect code — only working code.               ║
+  ║                                                       ║
+  ╚═══════════════════════════════════════════════════════╝
 ```
 
-| Phase | Action | Tools |
-|:---:|:---|:---|
-| 🧠 **Ideate** | Define the problem, sketch the solution | Pen + Paper, Figma |
-| 💻 **Build** | Code the core feature first | VS Code, GitHub |
-| 🤖 **AI-Power** | Integrate intelligence where it matters | OpenAI, Gemini, FastAPI |
-| 🧪 **Test** | Break it before the judges do | Manual + automated tests |
-| 🚀 **Deploy** | Ship before the deadline | Vercel, Render, Firebase |
+I participate in hackathons because they force you to ship. Fast constraints eliminate analysis paralysis. The best learning happens under pressure, with real users waiting at the end.
 
 ---
 
-<!-- ═══════════════════ ACHIEVEMENTS ═══════════════════ -->
+<!-- ░░░ CURRENTLY LEARNING ░░░ -->
 
-## 🏆 Achievements & Highlights
+## 🌱 Currently Learning
 
 ```
-🏆 ACHIEVEMENT LOG
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  🥇  Hackathon Participations      [ Updating... ]
-  📜  Certifications                [ Updating... ]
-  🌐  Open Source Contributions     [ In Progress ]
-  👥  Developer Communities         [ Active ]
-  🎤  Events & Tech Talks           [ Updating... ]
-  💡  Projects Shipped              [ 5+ ]
-  🔨  Technologies Used             [ 20+ ]
-  ⭐  GitHub Projects               [ Growing ]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+  LEARNING ROADMAP — 2025
+  ─────────────────────────────────────────────────────────
 
-> 📌 *This section is being actively updated as I build, compete, and contribute.*
+  NOW  (actively building with)
+  ├── Python · Machine Learning · Deep Learning
+  ├── FastAPI · Advanced Backend Architecture
+  ├── AI APIs · LLM Integration · Prompt Engineering
+  └── DSA · System Design foundations
+
+  NEXT  (deep-diving into)
+  ├── Cloud Infrastructure (AWS · Docker · CI/CD)
+  ├── MLOps · Model Deployment · Monitoring
+  └── Database Internals · Distributed Systems
+
+  EXPLORING  (on the radar)
+  ├── Rust · WebAssembly
+  ├── Cybersecurity · Secure by Design
+  └── Blockchain / Web3 fundamentals
+
+  ─────────────────────────────────────────────────────────
+```
 
 ---
 
-<!-- ═══════════════════ PROBLEM SOLVING ═══════════════════ -->
+<!-- ░░░ PROBLEM SOLVING ░░░ -->
 
 ## 🧩 Problem Solving
 
-<div align="center">
+I approach DSA not as a competitive sport but as a thinking framework. Understanding algorithms makes every piece of software I build sharper.
 
-```
-DSA FOCUS AREAS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Arrays & Strings       ████████████████  Active
-  Trees & Graphs         █████████████░░░  Active
-  Dynamic Programming    ██████████░░░░░░  Learning
-  Sliding Window         █████████████░░░  Active
-  Binary Search          ████████████░░░░  Active
-  Recursion & Backtrack  █████████░░░░░░░  Learning
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+**Current focus:** Arrays · Strings · Trees · Graphs · Dynamic Programming · Sliding Window
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-programmer--aviral-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/programmer-aviral/)
 
-</div>
-
 ---
 
-<!-- ═══════════════════ GITHUB STATS ═══════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=programmer-aviral&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&border_color=0a192f&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" alt="Aviral's GitHub Stats" width="49%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=programmer-aviral&theme=dark&background=0d1117&border=0a192f&stroke=0a192f&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=8892b0&dates=8892b0&sideNums=ffffff&currStreakNum=ffffff&border_radius=10" alt="Aviral's GitHub Streak" width="49%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=programmer-aviral&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=8892b0&border_color=0a192f&border_radius=10&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" width="40%"/>
-
-</div>
-
----
-
-<!-- ═══════════════════ GITHUB TROPHIES ═══════════════════ -->
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=programmer-aviral&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7&title=Stars,Commits,Repositories,Followers,Issues,PullRequest,Reviews" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-<!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=programmer-aviral&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=0a192f&border_color=0a192f&hide_border=false&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-> *"Every commit is a step forward."*
-
----
-
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+<!-- ░░░ CONTRIBUTION SNAKE ░░░ -->
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<!-- Light mode snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/programmer-aviral/programmer-aviral/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/programmer-aviral/programmer-aviral/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/programmer-aviral/programmer-aviral/output/github-snake-dark.svg" width="100%"/>
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/programmer-aviral/programmer-aviral/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
 ---
 
-<!-- ═══════════════════ 3D CONTRIBUTION GRAPH ═══════════════════ -->
+<!-- ░░░ AVIRAL ARCADE ░░░ -->
 
-## 🌐 3D Contribution Graph
+## 🎮 Aviral Arcade
+
+> *GitHub READMEs don't run JavaScript — but these are real.*
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+
+| Challenge | What it is | Link |
+|:---|:---|:---:|
+| 🐍 **Snake** | My contribution graph, eaten alive | ☝️ See above |
+| 🧩 **DSA Grind** | Daily algorithm practice | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/programmer-aviral/) |
+| 🔭 **Repo Explorer** | Browse everything I'm building | [![Repos](https://img.shields.io/badge/-Repositories-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/programmer-aviral?tab=repositories) |
+| ⚡ **Hackathon Mode** | Always ready to build | 🟢 READY |
+
 </div>
+
 ---
 
-<!-- ═══════════════════ DEVELOPER PHILOSOPHY ═══════════════════ -->
+<!-- ░░░ DEVELOPER PHILOSOPHY ░░░ -->
 
 ## 💭 Developer Philosophy
 
 ```
-THE ONLY CYCLE THAT MATTERS:
-
   BUILD  →  BREAK  →  LEARN  →  IMPROVE  →  SHIP
 
-  Build it fast.
-  Break it intentionally.
+  Build it to understand it.
+  Break it to find its limits.
   Learn what you didn't know.
   Improve what you broke.
-  Ship what works.
-  Repeat — forever.
+  Ship what actually works.
 
-  Good software isn't written once.
-  It's rewritten until it earns its place in production.
+  Good software isn't written once —
+  it's rewritten until it earns its place in production.
 ```
 
 ---
 
-<!-- ═══════════════════ AVIRAL ARCADE ═══════════════════ -->
+<!-- ░░░ DEV SETUP ░░░ -->
 
-## 🎮 Aviral Arcade
+## 🛠️ Dev Setup
 
-> GitHub READMEs don't support JavaScript, but the games are real.
+```
+  ┌─────────────┬────────────────────────────────────────┐
+  │  Editor     │  VS Code                               │
+  │  OS         │  Windows 11                            │
+  │  Terminal   │  Windows Terminal + Git Bash           │
+  │  Languages  │  Python · JavaScript · TypeScript      │
+  │  Version    │  Git + GitHub                          │
+  │  API Test   │  Postman / Thunder Client              │
+  │  Design     │  Figma · Canva · Blender               │
+  │  AI Tools   │  GitHub Copilot · ChatGPT · Gemini     │
+  │  Deploy     │  Vercel · Render · Firebase · AWS      │
+  └─────────────┴────────────────────────────────────────┘
+```
+
+---
+
+<!-- ░░░ OPEN TO ░░░ -->
+
+## 🤝 Open To
 
 <div align="center">
 
-| Game / Challenge | Description | Play |
-|:---|:---|:---:|
-| 🐍 **Snake** | My contribution graph is a snake game | 👆 See above |
-| 🧩 **DSA Challenge** | Solve problems on LeetCode | [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/programmer-aviral/) |
-| 💡 **GitHub Explore** | Explore my repositories | [![GitHub](https://img.shields.io/badge/-Explore-0d1117?style=flat&logo=github&logoColor=white)](https://github.com/programmer-aviral?tab=repositories) |
-| ⚡ **Hackathon Mode** | Next hackathon: always ready | 🟢 READY |
+| 💼 Internships | ⚡ Hackathons | 🌐 Open Source | 🔗 Collaborations | 💡 Interesting Projects |
+|:---:|:---:|:---:|:---:|:---:|
+| Full-stack / AI roles | Any domain, any team | PRs, issues, reviews | Dev tools & products | Things worth building |
 
 </div>
 
 ---
 
-<!-- ═══════════════════ DEV SETUP ═══════════════════ -->
+<!-- ░░░ CONTACT ░░░ -->
 
-## 🛠️ My Dev Setup
-
-```
-┌─────────────────────────────────────────────────────┐
-│                 AVIRAL'S WORKSPACE                   │
-├─────────────┬───────────────────────────────────────┤
-│  Editor     │  VS Code (with Vim keybindings)       │
-│  OS         │  Windows 11                            │
-│  Terminal   │  Windows Terminal + Git Bash           │
-│  Languages  │  Python · JavaScript · TypeScript      │
-│  Version    │  Git + GitHub                          │
-│  Design     │  Figma · Canva · Blender               │
-│  AI Tools   │  GitHub Copilot · ChatGPT · Gemini     │
-│  API Test   │  Postman / Thunder Client              │
-│  Deploy     │  Vercel · Render · Firebase            │
-└─────────────┴───────────────────────────────────────┘
-```
-
----
-
-<!-- ═══════════════════ RANDOM DEV QUOTE ═══════════════════ -->
-
-## 💬 Dev Quote
+## 📡 Let's Build Something
 
 <div align="center">
 
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+*Got an interesting idea? A hard problem? A hackathon team that needs a full-stack AI developer?*
 
-</div>
-
----
-
-<!-- ═══════════════════ LET'S BUILD SOMETHING ═══════════════════ -->
-
-## 🤝 Let's Build Something
-
-<div align="center">
-
-I'm always interested in interesting ideas, technical projects, hackathons, open-source contributions and collaborations.
-
-If you have an idea that's genuinely worth building — let's talk.
+**Let's talk.**
 
 <br/>
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-0d1117?style=for-the-badge&logoColor=00d4ff)](mailto:programmeraviral@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0a192f?style=for-the-badge&logoColor=00d4ff)](https://www.linkedin.com/in/aviral-gandhi-4756162a3/)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-0d1117?style=for-the-badge&logoColor=00d4ff)](https://www.instagram.com/aviralgandhi_/)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-0a192f?style=for-the-badge&logoColor=00d4ff)](https://github.com/programmer-aviral)
+[![Email](https://img.shields.io/badge/📧%20%20Email%20Me-0d1117?style=for-the-badge&labelColor=0a192f&color=0d1117)](mailto:programmeraviral@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/💼%20%20LinkedIn-0a192f?style=for-the-badge&labelColor=0d1117&color=0a192f)](https://www.linkedin.com/in/aviral-gandhi-4756162a3/)&nbsp;
+[![Instagram](https://img.shields.io/badge/📸%20%20Instagram-0d1117?style=for-the-badge&labelColor=0a192f&color=0d1117)](https://www.instagram.com/aviralgandhi_/)&nbsp;
+[![GitHub](https://img.shields.io/badge/🐙%20%20GitHub-0a192f?style=for-the-badge&labelColor=0d1117&color=0a192f)](https://github.com/programmer-aviral)
 
 </div>
 
 ---
 
-<!-- ═══════════════════ STAR SECTION ═══════════════════ -->
-
 <div align="center">
 
-⭐ **Found something interesting?** Star the repo — it means more than you think.
+⭐ If something here caught your eye, a star on the repo goes a long way.
 
 </div>
 
 ---
 
-<!-- ═══════════════════ VISITOR COUNTER ═══════════════════ -->
+<!-- ░░░ FOOTER ░░░ -->
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=programmer-aviral&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a192f,100:0d1117&height=120&section=footer&text=Built%20with%20curiosity%2C%20caffeine%20%26%20code.&fontSize=16&fontColor=8892b0&fontAlignY=65&animation=twinkling" alt="Footer — Built with curiosity, caffeine & code." width="100%"/>
-
-</div>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=110&section=footer&text=Curiosity%20%2B%20Caffeine%20%2B%20Code&fontSize=16&fontColor=8892b0&fontAlignY=65" alt="Footer" width="100%"/>
 
 *© Aviral Gandhi · programmer-aviral · 2025*
 
