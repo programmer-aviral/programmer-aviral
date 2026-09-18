@@ -499,11 +499,8 @@ DSA FOCUS AREAS
 ## 🌐 3D Contribution Graph
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/programmer-aviral/programmer-aviral/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
-
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 </div>
-
 ---
 
 <!-- ═══════════════════ DEVELOPER PHILOSOPHY ═══════════════════ -->
